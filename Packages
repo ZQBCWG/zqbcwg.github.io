@@ -24,6 +24,6 @@ Section: Terminal_Support
 Depends: mobilesubstrate, libAPIhook
 Filename: debfile/com.mioyue.apihook_1.3_iphoneos-arm.deb
 Size: 6564
-MD5sum: c1e7b8fba1d7c9b2574bc266545bc8b9
-SHA1: b481fffd4a34e25a02d639af1a0bd87ec3059a73
-SHA256: 537161636bede6e9918310fd58b0bfd5c9838d3aca3d44367a605143ad274ffc
+MD5sum: 1a3c4f0c3ba1656119446b7c1235212f
+SHA1: 25dffefcd6b3c20813ea70105fc3ffc198f9462d
+SHA256: 5da4ba4766f91c87fc457a9aa46286da42c1380e502c7d149c2639f6fc2fafa0
