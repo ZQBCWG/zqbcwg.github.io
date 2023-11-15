@@ -7,7 +7,7 @@ Maintainer: ZQBCWG <ckpsit@gmail.com>
 Author: ZQBCWG <ckpsit@gmail.com>
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: debs/com.mioyue.apihook_1.3_iphoneos-arm.deb
+Filename: debfile/com.mioyue.apihook_1.3_iphoneos-arm.deb
 Size: 816
 MD5sum: 5f4063b2505ee63878d19115efd910d2
 SHA1: 729dbd5f651e21729209b06169738ec9c1749d27
