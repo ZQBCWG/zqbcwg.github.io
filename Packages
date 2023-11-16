@@ -21,7 +21,7 @@ Description: CVE-2077-18374 terminal super user exploit security patch.
 Maintainer: ZQBCWG <ckpsit@gmail.com>
 Author: ZQBCWG <ckpsit@gmail.com>
 Section: Terminal_Support
-Depends: mobilesubstrate, com.mioyue.apihook
+Depends: mobilesubstrate
 Filename: debfile/com.mioyue.supatch_1.1_iphoneos-arm.deb
 Size: 6564
 MD5sum: 1a3c4f0c3ba1656119446b7c1235212f
