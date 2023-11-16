@@ -12,6 +12,7 @@ Size: 816
 MD5sum: 5f4063b2505ee63878d19115efd910d2
 SHA1: 729dbd5f651e21729209b06169738ec9c1749d27
 SHA256: 31bd6b346a8c83e422a368b9b08f57c7b46f95c12412cf951b929be8b7f5d598
+
 package: com.mioyue.supatch
 Name: SU Security Patch-mys
 Version: 1.1
